@@ -1,0 +1,15 @@
+Simon skal testes https://reelgood.com. Denne er en side til browse og se
+forskellige streaming services.
+
+  - Simon tror at det er noget med nogle streamingtjenester. Han tror at han kan
+    se alle streamingtjenesterne. 
+  - Der er nogle opgaver til Simon.
+    - Simon skal vaelge streamingtjenester.
+    - Simon skal afvaelge en streamingtjeneste
+    - Finde en film
+  UI naar man har en liste af film er der et misforhold mellem stoerrelsen paa
+  valg og sortering.
+  Han er meget begjestret for selvsamme valg-menu.
+
+
+  - Ikoner i venstre side naar man hover over film titler.
