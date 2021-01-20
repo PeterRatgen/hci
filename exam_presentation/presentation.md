@@ -31,6 +31,7 @@
     - En sketch hver
     - Alle skal (og kan) tegne
   - For meget diskussion i mellem processens steps
+    - Gruppetænking
     - Decideren og facilitatorens roller
   - Dogme omkring minimalt værktøj er værdifuldt
       
@@ -54,5 +55,8 @@
     - Makers, stitcher, writer, asset collector(s), interviewer
 
 # Konklusion
-  - At følge processen i Sprint
-    - Roller
+  - En mere slavisk tilgang
+    - Flere idéer, bedre løsninger
+    - Mere struktureret arbejdsform
+  - Gruppetænking 
+    - indviduelle idéer \underline{er} bedre
