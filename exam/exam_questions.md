@@ -65,16 +65,40 @@ numbersections: true
        Det bevirker at frontend kun skal være opmærksom på et sprog, modsat hvis
        vi havde brugt en view engine.
   - What is a microservice?
-    - 
   - What languages does a browser understand?
     - En browser forstår \underline{kun} HTML, CSS og Javascript. Hvis det er
       noget end disse, for at en browser skal kunne forstå det, skal der
       oversættes til disse tre. 
   - What is a persona?
-    - 
+    - Personaer bringer brugersegmenter til live, de er karakteristikker af
+      arketyper af eksempler på brugere. Personaer skal føles som om de er
+      rigitge personer.
+      Et persona indholder blandt andet:
+      - Navn
+      - Alder
+      - Citat
+      - Demografi
+      - Kundesegment
+      - Primære mål
+      - Primære problemer
+      - Teknologi profil
+      - Generel beskrivelse 
   - What is a map?
+    - Mappet har det primære mål som slutning. Vi tilføjer aktører, som er alle
+      der skal bruge systemet på nogen som helt måde. Herefter tilføjer vi
+      hvordan vi kommer fra start til slut, og hvordan de forskellige aktører
+      bidrager at vi kommer til slutmålet. Der er typisk 5 til 15 steps.
   - What is a storyboard?
+    - Vi laver 15 felter. Hvordan bruger anvender vores system. Fx brugeren
+      søger efter filmen "Batman". Vi fylder ud med hvordan brugeren anvender
+      vore system. Jo mere specifik vi lave storyboardet, jo mindre tvivl er der
+      når vi skal lave vores prototype.
   - What is a prototype?
+    - Prototype betyder normalt den første version. Den prototype vi har testet
+      med er den mindst testbare version. Med en prototype kan vi finde ud af om
+      det er noget brugerne vil have eller ej, dermed kan den hurtigt kasseres.
+      Vi kan bruger forskellige værktøjer til at prototype med POP, Powerpoint,
+      Figma eller Bootstrap Studio.
   - What is skeumorphism
     - Skeumorphisme beskriver objekter i interfacet der efterligner de virkelige
       funktioner de repræsenterer. Et eksempel er papirkurven på et skrivebord,
@@ -167,8 +191,8 @@ numbersections: true
     - Et bestemt system eller OS kan have bestemte Design Guidelines. Fx at når
       man swiper fra venstre og ind på iOS forventer brugeren at man har går
       tilbage, hvor man på Android kunne forvente en menu.
-    - Et design system er et prædefineret system, for hvordan menuer, knapper
-      mv. skal se ud. Et eksempel på et design system er designsystem.dk, hvor
+    - Et design system er et prædefineret system, for hvordan menuer, knapper  mv. 
+      skal se ud. Et eksempel på et design system er designsystem.dk, hvor
       enten Virk.dk eller Borger.dk temaet kan bruges til offentlige hjemmeside.
       På den måde undgår man at skulle opfinde den dybe tallerken i hvert et.
       offentligt IT-projekt.
